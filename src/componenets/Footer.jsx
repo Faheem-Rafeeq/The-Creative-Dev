@@ -15,10 +15,11 @@ const Footer = () => {
                                 alt="Creative Dudes Logo"
                                 className="h-12 w-auto"
                             />
-                            <div className="ml-3">
+                            <div className="ml-3 hidden sm:block">
                                 <h2 className="text-2xl font-bold">CREATIVES</h2>
                                 <p className="text-sm">THINK CREATIVE</p>
                             </div>
+
                         </div>
 
                         <div className="space-y-2 mt-[70px]">
